@@ -16,7 +16,7 @@ With Game-Fi, **OgreCoin** aims to nudge millions toward a healthier lifestyle, 
 
 **Game and Governance Token: OGC**
 
-**Info : **
+**Info:**
 
 WebSite Project : https://ogrecoin.com
 
