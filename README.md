@@ -10,22 +10,18 @@ With Game-Fi, **OgreCoin** aims to nudge millions toward a healthier lifestyle, 
 
 
 
-**Note: OgreCoin is currently under Public Beta Phase, so contents in the Whitepaper could be changed in the future.**
+### Note: 
+* **OgreCoin is currently under Public Beta Phase, so contents in the Whitepaper could be changed in the future.**
 
 ### Definition
 
-**Game and Governance Token: OGC**
+* **Game and Governance Token: OGC**
 
-**Info:**
+### Info:
 
-WebSite Project : https://ogrecoin.com
-
-LitePaper : https://ogrecoin.com/faqs
-
-Pre-Sale : https://ogrecoin.com/presale
-
-AirDrop : https://t.me/ogrecoinbot
-
-Twitter : https://twitter.com/OgreCoins
-
-Telegram Channel : https://t.me/OgreCoins
+* WebSite Project : https://ogrecoin.com
+* LitePaper : https://ogrecoin.com/faqs
+* Pre-Sale : https://ogrecoin.com/presale
+* AirDrop : https://t.me/ogrecoinbot
+* Twitter : https://twitter.com/OgreCoins
+* Telegram Channel : https://t.me/OgreCoins
