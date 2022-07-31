@@ -20,8 +20,14 @@ With Game-Fi, **OgreCoin** aims to nudge millions toward a healthier lifestyle, 
 ### Info:
 
 * WebSite Project : https://ogrecoin.com
-* LitePaper : https://ogrecoin.com/faqs
+* OgreCoin WhitePaper : https://whitepaper.ogrecoin.com
+* OgreCoin LitePaper : https://ogrecoin.com/litePaper
+* How To Play : https://ogrecoin.com/howToPlay
 * Pre-Sale : https://ogrecoin.com/presale
 * AirDrop : https://t.me/ogrecoinbot
 * Twitter : https://twitter.com/OgreCoins
 * Telegram Channel : https://t.me/OgreCoins
+* Medium : https://medium.com/@OgreCoin
+* Reddit : https://www.reddit.com/r/ogrecoin
+* Discord : https://discord.com/invite/6GhGsFAcvM
+* GitHub : https://github.com/coinmetaverse
